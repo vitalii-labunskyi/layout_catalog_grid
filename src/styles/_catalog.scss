@@ -4,7 +4,7 @@
   gap: 48px;
   grid-template-columns: repeat(4, 200px);
 
-  @media (min-width: 768px) and (max-width: 1204px) {
+  @media (max-width: 1023px) {
     grid-template-columns: repeat(3 , 200px);
   }
   
